@@ -123,7 +123,7 @@ const Experience = () => {
                     Computer Science Engineering || Jabalpur
                   </div>
                   <div className="third">
-                    <span>April 2021</span> <span>-</span> <span>Present</span>
+                    <span>June 2020</span> <span>-</span> <span>Present</span>
                   </div>
                 </div>
               </div>
