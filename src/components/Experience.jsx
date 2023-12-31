@@ -174,9 +174,9 @@ const Experience = () => {
                     <div>•</div>
                     <div>
                       Participate in the design and development of various{" "}
-                      <span>web-based</span> applications using
+                      <span>web-based</span> applications using{" "}
                       <span>ReactJS</span>,<span> Node.js</span>,
-                      <span> JavaScript</span> , and other relevant programming
+                      <span> JavaScript</span> and other relevant programming
                       languages.
                     </div>
                   </li>
@@ -190,15 +190,15 @@ const Experience = () => {
                   <li>
                     <div>•</div>
                     <div>
-                      Work on <span>NodeJS</span>,<span>ExpressJS</span> and
-                      creating <span>RESTful APLs</span> in Backend.
+                      Work on <span>NodeJS</span>,<span> ExpressJS</span> and
+                      creating <span>RESTfull APIs</span> in Backend.
                     </div>
                   </li>
                   <li>
                     <div>•</div>
                     <div>
-                      Work on <span>Redux</span>,<span>React hooks</span>,
-                      <span>state Management</span>, and React component
+                      Work on <span>Redux</span>,<span> React hooks</span>,
+                      <span> state Management</span>, and React component
                       lifecycle.
                     </div>
                   </li>
